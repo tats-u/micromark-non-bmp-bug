@@ -13,6 +13,11 @@ node --run test
 
 The test will be run and fail. The test will pass after the bug is fixed.
 
+## Test case and expected result
+
+- [testcase.md](testcase.md)
+- [expected.html](expected.html)
+
 ## Related
 
 - commonmark.js (fixed): https://github.com/commonmark/commonmark.js/issues/296 (PR: https://github.com/commonmark/commonmark.js/pull/297)
